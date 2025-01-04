@@ -1,7 +1,7 @@
-Libft - Reescritura de la biblioteca estándar de C es un proyecto de 42
-Rehice algunas de las funciones de la biblioteca C estándar, además de funciones adicionales útiles en proyectos futuros.
+Libft - Reescritura de la biblioteca estándar de C es un proyecto de 42. 
+Rehice algunas de las funciones de la biblioteca C estándar, además de funciones adicionales útiles en proyectos futuros. 
 
-Al realizar este proyecto, adquirí una comprensión profunda de las estructuras de datos y la depuración práctica.
+Al realizar este proyecto, adquirí una comprensión profunda de las estructuras de datos y la depuración práctica. 
 
 Funciones de <ctype.h>la biblioteca
 ft_isalnum - prueba de caracteres alfanuméricos.
